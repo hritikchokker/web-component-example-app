@@ -1,0 +1,12 @@
+{
+  "name": "@hritik-chokker-webcomponent/element",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "elements.js",
+    "style.css"
+  ]
+}
